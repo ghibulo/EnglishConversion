@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1468105362 source:/home/ghibulo/programovani/ansiC++/pokusCpp/main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<vector>
+	<math.h>
+

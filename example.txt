@@ -1,0 +1,5 @@
+Thistext will now be inside of example.txt
+ahoj jirko,
+jak se máš?
+já se mám fajn...
+Thistext will now be inside of example.txt
